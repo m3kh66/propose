@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextField should match number snapshot 1`] = `
+<styled.label>
+  Text
+  <styled.input
+    type="number"
+  />
+</styled.label>
+`;
+
+exports[`TextField should match password snapshot 1`] = `
+<styled.label>
+  Text
+  <styled.input
+    type="password"
+  />
+</styled.label>
+`;
+
+exports[`TextField should match text snapshot 1`] = `
+<styled.label>
+  Text
+  <styled.input
+    type="text"
+  />
+</styled.label>
+`;
